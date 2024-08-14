@@ -1,0 +1,66 @@
+<html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1"><meta name="Referer" content="origin"><title>登陆 - 须弥山佛国网</title><style>@media screen and (min-width: 1000px) {
+    body {
+        background-image:url('static/image/xms_pc_login_bg.jpg');
+        margin:0;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    body {
+        background-image:url('static/image/xms_phone_login_bg.jpg');
+        background-repeat:no-repeat;
+        background-size: 100% 100%;
+        margin:0;
+    }
+}
+</style><style>.lotustail {
+    top:133px;
+}</style><link rel="stylesheet" href="static/css/bootstrap.min.css"><link rel="stylesheet" href="static/css/login.css"><link rel="stylesheet" href="static/css/style_pc.css"><meta name="viewport" content="width=1920"><script>sc = '//s.channajieyuan.net';
+cur_nav_index = 0;</script><script src="static/js/site.js"></script></head><script>function getQueryString(name) {
+    if (location.href.indexOf("?") == -1 || location.href.indexOf(name + '=') == -1) {
+        return '';
+    }
+
+    var queryString = location.href.substring(location.href.indexOf("?") + 1);
+
+    var parameters = queryString.split("&");
+   
+    var pos, paraName, paraValue;
+    for (var i = 0; i < parameters.length; i++) {
+        pos = parameters[i].indexOf('=');
+        if (pos == -1) { continue; }
+
+        paraName = parameters[i].substring(0, pos);
+        paraValue = parameters[i].substring(pos + 1);
+        
+        if (paraName == name) {
+            //alert(unescape(paraValue));
+            return unescape(paraValue);
+        }
+    }
+    return '';
+}
+RunOnReady(function () {
+    $.getScript('//s.channajieyuan.net/static/javascripts/login.js?v=3', function () {
+        
+     });
+    var url = new URL(window.location.href);
+    var from;
+    if (url.searchParams)
+        from = url.searchParams.get("from");
+    else {
+        from = getQueryString('from');
+        
+    }
+    
+    if (from) {
+        $('#loginform').on('login', function (event, usr) {
+            if (usr) {
+                window.location = from;
+            }
+            event.stopImmediatePropagation();
+        });
+    }
+    
+});
+</script><body><img class="headimg" src="static/picture/xms_pc_login_top.png"><div class="pcbkg lotustail"><img src="static/picture/xms_pc_login_bg.png"></div><div class="placeholder"></div><link rel="stylesheet" href="static/css/login.css"><div class="loginbox"><form class="form-signin" id="loginform" method="POST" action="/user/login"><div class="logininput"><img class="libkg" src="static/picture/xms_phone_logininput.png"><input id="reauth-email" type="text" name="loginname" placeholder="电子邮件/手机号/昵称" autocomplete="username" required="required" autofocus="autofocus"></div><div class="logininput"><img class="libkg" src="static/picture/xms_phone_logininput.png"><input id="pswinput" type="password" name="password" placeholder="登陆密码" autocomplete="current-password"></div><a class="forgetpass" href="forget_password.html">忘记密码?</a><div class="placeholder"></div><div class="logininput"><img class="libkg" src="static/picture/xms_phone_loginbtn.png" onclick="$('#loginform').submit();"><button>登录</button></div><div class="logininput"><a href="register.html">注册</a></div></form></div><div class="userfooter"><div class="t"><a href="introduction.html">谛深大师简介</a><span class="footersep">|</span><a href="index.html">首页</a><span class="footersep">|</span><a href="contactus.html">联系我们</a><span class="footersep">| </span><a id="openwithapp" href="downloadapp.html">下载APP</a></div><div class="s"></div><div class="t"><span>Copyright 2017 Dishendashi.org all right reserved.</span></div></div><div class="alert alert-dismissable" id="floating_alert"><a class="close" href="#" data-dismiss="alert" aria-label="close">&times;</a><span id="alerttext"></span></div></body></html>
