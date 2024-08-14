@@ -1,0 +1,392 @@
+.text_list_head {
+    width: 100%;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+
+.category_comment {
+    margin-top: 5px;
+}
+
+.list_head_flower_start {
+    width: 15%;
+    max-width: 57px;
+    height: 57px;
+    /* max-height: 57px; */
+    display: inline-block;
+    background-image: url('../image/text_list_head.png');
+    background-size: contain;
+    -moz-background-size: contain;
+    content: "";
+    vertical-align: middle;
+    background-repeat: no-repeat;
+}
+
+.list_head_flower_end {
+    width: 30%;
+    max-width: 111px;
+}
+
+.text_list_head h2 {
+    display: inline;
+    margin-left: 2%;
+    margin-right: 2%;
+    font-size: 2.1rem;
+    color: #565858;
+    font-family: SimHei, STHeiti, Microsoft YaHei;
+}
+
+.text_list_head h2:before {
+    margin-right: 2%;
+    min-width: 35px;
+    min-height: 35px;
+    /* max-height: 57px; */
+    display: inline-block;
+    background-image: url('../image/text_list_head.png');
+    background-size: contain;
+    -moz-background-size: contain;
+    content: "";
+    vertical-align: middle;
+    background-repeat: no-repeat;
+}
+
+.text_list_head h2:after {
+    margin-left: 2%;
+    width: 100px;
+    min-height: 30px;
+    display: inline-block;
+    background-image: url('../image/text_list_head_.png');
+    background-size: contain;
+    -moz-background-size: contain;
+    content: "";
+    vertical-align: middle;
+    background-repeat: no-repeat;
+}
+
+.dot {
+    /* content: "\0020"; */
+    display: inline-block;
+    margin-left: 1%;
+    /* padding-left: 1%; */
+    border-bottom: 1px dotted;
+    width: 32px;
+}
+
+.text_list_item {
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.text_item_head {
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.text_item_head:before {
+    /* padding-bottom: 1%; */
+    margin-right: 2%;
+    width: 30px;
+    height: 30px;
+    display: inline;
+    background-image: url('../image/xms_list_yingshijuan_book.png');
+    background-size: 30px;
+    content: "";
+    background-repeat: no-repeat;
+}
+
+.video_list:before {
+    background-image: url('../image/xms_list_yingshijuan_video.png');
+}
+
+.audio_list:before {
+    background-image: url('../image/xms_list_yingshijuan_listen.png');
+}
+
+.text_item_head_data {
+    padding-bottom: 0.5%;
+    padding-right: 20px;
+    max-width: 72%;
+}
+
+@media screen and (max-width: 1000px) {
+    .text_item_head_data {
+        max-width: 85%;
+        padding-right: 5px;
+    }
+}
+
+
+.text_item_head_data h3 {
+    line-height: 110%;
+    margin-left: 0px;
+    display: inline-block;
+    font-size: 1.8rem;
+    /* border-bottom: 1px solid rgb(244, 187, 14); */
+}
+
+.text_item_head_data h3>a {
+    color: #3b3d3d;
+}
+
+.text_item_head_data img {
+    max-height: 20px;
+    margin-left:10px;
+}
+
+
+
+.text_abstract {
+    display: none;
+    margin-left: 4.5%;
+    margin-top: 0.5%;
+    margin-bottom: 1%;
+    border-bottom: 1px solid rgb(244, 187, 14);
+}
+
+.text_abstract a {
+    padding-bottom: 0.3%;
+    color: #565858;
+    line-height: 150%;
+}
+
+.text_list_content {
+    /* margin-bottom: 5%; */
+}
+
+.collection {
+    padding-top: 6px;
+    margin-left: 30px;
+}
+
+.read {
+    flex: 1;
+    text-align: right;
+    color: #4d2509;
+}
+
+.pagination {
+    
+    padding-top: 50px;
+    text-align: center;
+    display: block;
+    margin:auto;
+    /* width: 500px; */
+}
+
+.pagination>li {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-image: url('../image/xms_list_page.png');
+    background-repeat: no-repeat;
+    text-align:center;
+    padding-top:4px;
+    padding-left:3px;
+}
+
+.pagination>li>a {
+    background-color: inherit;
+    /* text-align:center; */
+    /* float:none; */
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    
+    /* padding-left: 12px; */
+    color: #820720; 
+    border: 0;
+}
+
+.pagination>.active,
+.pagination>li:hover,
+.pagination>li:focus {
+    background-image: url('../image/xms_list_page_choose.png') !important;
+}
+
+.pagination>li>a:hover {
+    background-color: inherit;
+    color:rgb(227, 180, 111) 
+}
+
+.pagination>li>a:focus {
+    color:#820720; 
+    background-color: inherit;
+}
+
+.pagination>.active>a {
+    background-color: inherit;
+    color:rgb(227, 180, 111) 
+}
+
+.pagination>li.disabled>a,
+.pagination>li.disabled>a:hover {
+    background-color: inherit;
+}
+
+.nextpage {
+    background-image: url('../image/xms_list_pageright.png') !important;
+}
+
+.prevpage {
+    background-image: url('../image/xms_list_pageleft.png') !important;
+}
+
+#listmore {
+    display: block;
+    width: 216px;
+    height: 56px;
+    background-image: url('../image/xms_phone_list_more.png');
+    margin-left: auto;
+    margin-right: auto;
+    color: #820720;
+    font-size: 20px;
+    padding-left: 65px;
+    padding-top: 14px;
+    margin-top: 20px;
+}
+
+.categories {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.category {
+    
+    
+    background-size:contain;
+    background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 1000px) {
+    .category {
+        background-image:url('../image/xms_phone_list_ysj_a.jpg');
+    }
+
+    .category.active,
+    .category:focus,
+    .category:hover {
+        background-image:url('../image/xms_phone_list_ysj_b.jpg');
+    }
+
+    .category a {
+        padding-left:11%;
+        padding-top:3%;
+        min-height: 36px;
+        min-width: 106px;
+    }
+    .texticon:before {
+        width:24px;
+        height: 24px;
+    }
+    .audioicon:before {
+        width:24px;
+        height: 24px;
+    }
+    .videoicon:before {
+        width:24px;
+        height: 24px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+    .category {
+        background-image:url('../image/xms_list_yingshijuan_choose_b.png');
+    }
+
+    .category.active,
+    .category:focus,
+    .category:hover {
+        background-image:url('../image/xms_list_yingshijuan_choose_a.png');
+    }
+
+    .category a {
+        padding-left:30%;
+        padding-top:4%;
+        min-height: 72px;
+        min-width: 402px;
+        font-size:24px;
+    }
+
+    .texticon:before {
+        width:32px;
+        height:32px;
+        margin-right:3px;
+    }
+
+    .audioicon:before {
+        width:32px;
+        height:32px;
+        margin-right:5px;
+    }
+    .videoicon:before {
+        width:32px;
+        height:32px;
+        margin-right:5px;
+    }
+}
+
+.category a {
+    display: block;
+    text-decoration: none;
+}
+
+.category.active a,
+.category a:focus,
+.category a:hover {
+    color:rgb(244, 187, 14);
+}
+
+
+.texticon:before {
+    content:'';
+    display: inline-block;
+    
+    background-image:url('../image/xms_list_yingshijuan_book.png');
+    background-size:contain;
+    vertical-align: middle;
+}
+
+.audioicon:before {
+    content:'';
+    display: inline-block;
+    
+    background-image:url('../image/xms_list_yingshijuan_listen.png');
+    background-size:contain;
+    vertical-align: middle;
+}
+
+.videoicon:before {
+    content:'';
+    display: inline-block;
+    
+    background-image:url('../image/xms_list_yingshijuan_video.png');
+    background-size:contain;
+    vertical-align: middle;
+}
+
+
+.category.active .texticon:before,
+.category:focus .texticon:before ,
+.category a:hover .texticon:before{
+    background-image:url('../image/xms_list_yingshijuan_book_b.png');
+}
+
+.category.active .audioicon:before,
+.category:focus .audioicon:before ,
+.category:hover .audioicon:before{
+    background-image:url('../image/xms_list_yingshijuan_listen_b.png');
+}
+
+.category.active .videoicon:before,
+.category:focus .videoicon:before ,
+.category:hover .videoicon:before{
+    background-image:url('../image/xms_list_yingshijuan_video_b.png');
+}

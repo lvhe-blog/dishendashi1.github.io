@@ -1,0 +1,336 @@
+/* custom carousel indicator image */
+
+.carousel-indicators li {
+    display: inline-block;
+    height: 16px;
+    width: 15px;
+    background-image: url('../image/xms_spot.png');
+    cursor: pointer;
+    border: 0;
+    border-radius: 0;
+    margin-right: 10px;
+}
+
+.carousel-indicators .active {
+    width: 15px;
+    height: 16px;
+    background-color: transparent;
+    margin-right: 10px;
+}
+
+.introduction {
+    width: 100%;
+    height: 742px;
+    padding-top: 76px;
+    background-image: url('../image/xms_bigbg.png');
+}
+
+.intro_content {
+    width: 100%;
+    height: 600px;
+    margin-bottom: 50px;
+    background-image: url('../image/xms_jzbg.png');
+    position: relative;
+}
+
+.intro_content h2 {
+    display: none;
+}
+
+.intro_title {
+    position: absolute;
+    right: 180px;
+    top: 80px;
+    writing-mode: tb-rl;
+}
+
+.itt {
+    margin: 5px;
+    padding: 9.5px;
+    font-size: 41px;
+    color: #f6f2d4;
+    border-radius: 30px;
+    background-color: rgb(247, 150, 34);
+    font-family: FZQingKeBenYueSongS, Hiragino Sans GB, WenQuanYi Micro Hei, Lantinghei SC, STXihei;
+}
+
+.intro_body {
+    width: 760px;
+    height: 300px;
+    position: absolute;
+    right: 310px;
+    top: 80px;
+    writing-mode: tb-rl;
+    font-size: 18px;
+    line-height: 30px;
+    letter-spacing: 2px;
+    color: #5d2f12;
+}
+
+.intro_detail {
+    display: block;
+    margin-right: 25px;
+    margin-top: 10px;
+    background-image: url('../image/xms_xq.png');
+    width: 30px;
+    height: 58px;
+    padding-left: 5px;
+    padding-top: 10px;
+}
+
+.intro_detail:hover {
+    background-image: url('../image/xms_xq_hover.png');
+}
+
+.praise {
+    width: 760px;
+    height: 110px;
+    position: absolute;
+    right: 310px;
+    top: 400px;
+    font-size: 24px;
+    color: #5d2f12;
+    letter-spacing: 4px;
+    padding-top: 15px;
+    padding-left: 40px;
+    background-image: url('../image/xms_shibg.png');
+    font-family: FZQingKeBenYueSongS, Hiragino Sans GB, WenQuanYi Micro Hei, Lantinghei SC, STXihei;
+}
+
+.subsection {
+    width: 330px;
+    height: 456px;
+    border-right: 1px dashed #69250a;
+    margin-right: 23px;
+    margin-bottom: 48px;
+}
+
+.subsection_title {
+    width: 308px;
+    height: 30px;
+    background-image: url('../image/xms_list01.png');
+    padding-left: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.section_title {
+    width: 1280px;
+    height: 108px;
+    background-image: url('../image/xms_titlebg.png');
+    padding-left: 44px;
+    /* padding-top:30px; */
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    margin-bottom: 56px;
+    margin-top: 60px;
+}
+
+.section_title h2 {
+    margin: 0;
+    margin-left: 20px;
+    font-size: 30px;
+    color: #5d2f12;
+}
+
+.subsection_title h3 {
+    margin: 0;
+    font-size: 20px;
+    width: 75%;
+    text-align: center;
+    color: rgb(236, 179, 42);
+}
+
+.smallicon {
+    display: inline-block;
+    margin-right: 8px;
+    margin-left: 15px;
+    width: 30px;
+    height: 30px;
+}
+
+.subsection_body li a {
+    display: inline-block;
+    width: 180px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.subsection_body {
+    height: 200px;
+}
+
+.morebtn {
+    display: flex;
+    width: 260px;
+    height: 24px;
+    background-image: url('../image/xms_morebg.png');
+    justify-content: center;
+    align-items: center;
+    margin-left: 22px;
+}
+
+.morebtn:hover {
+    background-image: url('../image/xms_morebg_hover.png');
+}
+
+.subsection_temple {
+    width: 490px;
+    height: 330px;
+    margin-right: 29px;
+    overflow: hidden;
+    position: relative;
+}
+
+.temple_bgimg {
+    height: 100%;
+}
+
+.subsection_temple span {
+    position: absolute;
+    left: 200px;
+    top: 140px;
+    z-index: 9;
+    color: rgb(252, 179, 16);
+    font-size: 30px;
+}
+
+.temple_pattern {
+    position: absolute;
+    left: 155px;
+    top: 170px;
+}
+
+.section_news {
+    width: 624px;
+    display: inline-block;
+    height: 400px;
+}
+
+.subsections>.section_news~.section_news {
+    margin-left: 30px;
+}
+
+.section_news h3 {
+    color:rgb(236, 179, 42);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 38px;
+    background-image: url('../image/xms_border.png');
+    margin-bottom: 30px;
+}
+
+.section_new_body {
+    outline: 2px solid #6e2303;
+    outline-offset: 3px;
+    border: 1px solid #6e2303;
+    display: flex;
+    padding: 15px;
+    height: 307px;
+}
+
+.announcement {
+    overflow-y: scroll;
+    padding-right:12px;
+    border-right: 1px dashed #69250a; 
+}
+
+.section_new_body ul {
+    list-style-type: none;
+    padding-top: 15px;
+}
+
+.live {
+    background-image:url('../image/pc_live_bg.jpg');
+    background-size: cover;
+    height: 300px;
+}
+
+.live a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.live a:hover {
+    text-decoration: none;
+}
+
+.live h3 {
+    display: block;
+    font-size:44px;
+    color:#594410;
+    margin-bottom: 20px;
+}
+
+
+.live p {
+
+    width: 247px;
+    height: 58px;
+    padding-top:9px;
+    padding-left: 90px;
+    display: block;
+    background-image: url('../image/live_button.png');
+    background-size: contain;
+    color: white;
+    font-size: 30px;
+}
+
+.list49 {
+    background-image:url('../image/49banner_pc.jpg');
+    background-size: cover;
+    height: 300px;
+    color:#B87328;
+}
+
+.list49 a {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.list49 a:hover {
+    text-decoration: none;
+}
+
+.list49 h3{
+    display: block;
+    font-weight:100;
+    font-family: FZQingKeBenYueSongS, Hiragino Sans GB, WenQuanYi Micro Hei;
+    font-size:44px;
+    margin-bottom: 20px;
+    margin-right:30%;
+    line-height: 80px;
+    letter-spacing:6px;
+    border-bottom: solid 1px ;
+}
+
+.list49 h4{
+    display: block;
+    font-size:44px;
+    margin-bottom: 20px;
+    margin-right:30%;
+}
+
+.list49 p {
+    width: 167px;
+    height: 44px;
+    margin-right:30%;
+    margin-top:20px;
+    padding-top:9px;
+    padding-left: 45px;
+    display: block;
+    background-color:#B87328;
+    border-radius: 29px;
+    color: white;
+    font-size: 18px;
+}

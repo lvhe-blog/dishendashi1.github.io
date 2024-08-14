@@ -1,0 +1,38 @@
+.enlighted {
+    border: 1px solid black;
+    padding-left: 6%;
+    padding-right: 4%;
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background-color: rgb(246, 208, 63);
+    margin-bottom: 2%;
+}
+
+.enlighted_title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 4%;
+}
+
+.wysiwyg {}
+
+.wysiwyg h1 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.wysiwyg h2 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.wysiwyg h3 {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.wysiwyg p {
+    font-size: 16px;
+}
