@@ -1,0 +1,200 @@
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1"><meta itemprop="image" content="http://www.dishendashi.orgundefined"><meta http-equiv="Cache-Control" content="no-transform"><meta http-equiv="Cache-Control" content="no-siteapp"><meta name="applicable-device" content="pc,mobile"><meta name="MobileOptimized" content="width"><meta name="HandheldFriendly" content="true"><meta http-equiv="Content-Security-Policy" content="default-src * 'unsafe-inline' 'unsafe-eval' blob:;font-src * data:; script-src * 'unsafe-inline' 'unsafe-eval' blob:; connect-src * 'unsafe-inline'; img-src * data: 'unsafe-inline'; frame-src *; style-src * 'unsafe-inline';"><meta name="viewport" content="width=1920"><title>谛深大师开示：修行就是在给自己造就新生命体缘分 - 须弥山佛国网</title><meta name="description" itemprop="description" content="谛深大师开示：修行就是在给自己造就新生命体缘分 节选自2021年1月9日谛深大师直播讲法录像"><meta name="keywords" content="缘分,修行,慈悲,慈悲心,愚痴,智慧,佛门,虚妄,妄想,邪道,出离,世界,命运,罪苦,生命,菩萨,善心,罪孽,六道,娑婆世界,实修,福报,邪魔外道,放下,出离罪苦,成佛,谛深大师,妙湛寺,须弥山大学,须弥山佛国网"><meta name="author" content="谛深大师"><link rel="shortcut icon" href="https://s.channajieyuan.net/static/images/logo.ico?v=3"><link rel="stylesheet" href="static/css/bootstrap.min.css"><link rel="stylesheet" href="static/css/style_pc.css"><script>sc = '//s.channajieyuan.net';
+cur_nav_index = 0; </script><script src="static/js/site.js"></script><script src="static/js/distpicker.data.min.js"></script><!--[if lt IE 9]><script src="//s.channajieyuan.net/bower_components/html5shiv/dist/html5shiv.js"></script><script src="//s.channajieyuan.net/bower_components/respond/src/respond.js"></script><![endif]--><style>body {
+  background-color:rgb(255,199,17); 
+  
+}
+
+
+
+</style><link rel="stylesheet" href="static/css/text_details.css"><style>.download {
+    font-size:smaller;
+    margin-left:10px;
+}
+.wechat_warning {
+    max-width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:3%;
+}
+.chapters {
+    margin-top:40px;
+    
+}
+.chaptertitle {
+    font-family: FZQingKeBenYueSongS, Hiragino Sans GB, WenQuanYi Micro Hei, Lantinghei SC, STXihei;
+    font-size: 28px;
+    color:#5d2f12;
+    border-bottom:3px solid #5d2f12;
+    padding-bottom:6px;
+    margin-bottom:14px;
+}
+.chapter {
+    display:flex;
+    justify-content: space-between;
+    margin-top:10px;
+    font-family:FZQingKeBenYueSongS, Hiragino Sans GB, WenQuanYi Micro Hei, Lantinghei SC, STXihei;
+    color:#5d2f12;
+    font-size: 16px;
+    border-bottom: 1px dashed #5d2f12;
+    padding-bottom: 6px;
+}
+.t {
+    max-width:80%;
+    cursor:pointer;
+    cursor:hand;
+}
+.t img {
+    width:25px;
+    padding-left:10px;
+}
+.ch {
+    
+    position: relative;
+    z-index: 99999;
+}
+.Ques {
+    font-size: 15px;
+    margin-left: 5px;
+}
+.chapters :last-child {
+    
+    border-bottom : none;
+} 
+
+</style><script src="static/js/video.min.js"></script><link rel="stylesheet" href="static/css/video-js.min.css"><style>.video {
+    width:100%;
+    
+    margin-top:5%;
+    margin-left:auto;
+    margin-right:auto;
+}
+.vjs-poster {
+    border:3px solid #820720;
+}
+
+</style><script type="module" src="static/js/video-offset.js"></script><script>function loadChapter() {
+    //- $.getScript('//s.channajieyuan.net/static/javascripts/require.min.js', () => {});
+    
+    var player = videojs("vdo");
+    player.offset({
+        start: 7366,
+        end: 8240,
+        restart_beginning: false 
+    });
+}</script><script>RunOnReady(function () {
+    //$.getScript('//vjs.zencdn.net/5.19/video.min.js', function () {
+        //videojs.options.flash.swf = 'http://vjs.zencdn.net/5.19/video-js.swf';
+        
+    //});
+    //loadChapter();
+
+
+    $('.t').click(function() {
+        var starttime = $(this).find('.ch').attr('StartTime');
+        console.log(starttime);
+        if (starttime) {
+            var player = videojs("vdo");
+            player.play();
+            player.currentTime(starttime);
+        }
+    })
+
+    //- if (isWechat()) {
+    //-     $('.wechat_warning').hide();
+    //-     $('#player').css('disply', 'block');
+    //- }
+    //- else {
+    //-     $('#player').css('disply', 'block');
+    //- }
+});</script><body><div class="datenav"><div class="cal">佛历2568年 公历 2024年8月19日 星期一 &nbsp; 农历:甲辰年七月十六  </div><div class="pp">远离邪教 佛法久住 &nbsp;&nbsp;&nbsp;&nbsp; 正邪之分 佛戒为本 &nbsp;&nbsp;&nbsp;&nbsp; 远离邪教 即是福报 &nbsp;&nbsp;&nbsp;&nbsp; 远离邪教 保护家人</div></div><div class="fixtopnav"><div class="nav_content"><div class="logobox"><div class="favi"><img src="static/picture/LOGO.png"></div><div class="logo_container"><h1 class="xk">南無谛深大師</h1><h1 class="xk">須彌山佛國網</h1><p class="nm">NA MO DI SHEN DA SHI</p></div></div><div class="content_box"><div class="navb"><ul><li> <a href="index.html">首页</a></li><li> <span>南无谛深大师</span></li><li> <span>网上妙湛寺</span></li><li> <span>须弥山大学 </span></li><li> <a href="medicine_buddha_tower.html">消灾延寿药师佛宝塔 </a></li></ul></div></div><div class="navright"><div class="searchbox"><input class="searchinput" type="text"><img id="searchbtn" src="static/picture/xms_search.png"></div><div class="avatarpannel"><img class="avatarIco" id="loginRegister" src="static/picture/xms_user.png"><span class="badge unreadcount"></span></div><ul id="useraction_dropdown_menu"><img class="upleft" src="static/picture/xms_dl_lefttop.png"><img class="upright" src="static/picture/xms_dl_lefttop.png"><img class="downleft" src="static/picture/xms_dl_lefttop.png"><img class="downright" src="static/picture/xms_dl_lefttop.png"><li><a href="login.html">个人信息</a></li><li><a href="login.html#sitemsg">我的消息</a></li><li><a href="/user/logout">退出</a></li></ul></div></div><div class="subnav"><div class="content_box centeralign"><ul></ul><ul><li><a href="introduction.html">师父简介</a></li><li><span class="sepimg"> </span></li><li><a href="understand_buddism.html">《了解佛法》</a></li><li><span class="sepimg"></span></li><li><a href="应世卷.html">《应世卷》</a></li><li><span class="sepimg"></span></li><li><a href="灭罪卷.html">《灭罪卷》</a></li><li><span class="sepimg"></span></li><li><a href="机缘道旨妙法入门卷.html">《机缘道旨妙法入门卷》</a></li><li><span class="sepimg"></span></li><li><a href="audio.html">开示法音</a></li><li><span class="sepimg"></span></li><li><a href="video.html">视频开示</a></li><li><span class="sepimg"></span></li><li><a href="poem.html">谛深大师诗摘</a></li></ul><ul><li><a href="meritbox.html">功德塔</a></li><li><span class="sepimg"></span></li><li><a href="sites.html">寺院建设</a></li><li><span class="sepimg"></span></li><li><a href="landscape.html">寺院揽胜</a></li></ul><ul><li><a href="须弥山大学2018入学考试预备补习班招生简章.html">2018年入学考试预备补习班招生简章</a></li><li><span class="sepimg"></span></li><li><a href="video.html">须弥山大学视频开示</a></li><li><span class="sepimg"></span></li><li><a href="live.html">谛深大师讲法直播间</a></li></ul></div></div></div><div class="content padtop" id="ctmain"><div class="content_box centeralign listbanner"><div class="carousel slide" id="banner" data-ride="carousel"><div class="carousel-inner"><div class="item active"><img class="d-block w-100" src="static/picture/xms_listbanner.jpg" alt="赠众生"></div><div class="item"><img class="d-block w-100" src="static/picture/xms_listbanner02.png" alt="训子歌"></div><div class="item"><img class="d-block w-100" src="static/picture/xms_listbanner03.png" alt="四季"></div><div class="item"><img class="d-block w-100" src="static/picture/xms_listbanner04.png" alt="绿岛"></div></div><a class="carousel-control left" href="#banner" role="button" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a><a class="carousel-control right" href="#banner" role="button" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a></div></div><div class="content_box centeralign"><div class="titlebar"><p> 当前位置：<a href="index.html">首页</a><span>&nbsp;>&nbsp;</span><a href="video1.html">谛深大师开示视频</a><span>&nbsp;>&nbsp;</span><a href="60a1e8eb629cab7e44f1a5ae.html">2021年1月9日菩萨海会</a><span>&nbsp;>&nbsp;</span><a href="">谛深大师开示：修行就是在给自己造就新生命体缘分</a></p></div></div><div class="content_box centeralign"><article class="text_detail"><div class="ebd_lefttop upleft"><div class="corner_flower"></div></div><div class="ebd_rightbottom downright"><div class="corner_flower"></div></div><div class="ebd_leftbottom downleft"><div class="corner_flower"></div></div><div class="ebd_righttop upright"><div class="corner_flower"></div></div><div class="title_part"><h1>谛深大师开示：修行就是在给自己造就新生命体缘分</h1><time>2021/01/09</time><span class="download"></span></div><div class="info"><div class="keywords"><a class="kw" href="缘分.html">缘分</a><a class="kw" href="修行.html">修行</a><a class="kw" href="慈悲.html">慈悲</a><a class="kw" href="/keyword/慈悲心">慈悲心</a><a class="kw" href="愚痴.html">愚痴</a><a class="kw" href="智慧.html">智慧</a><a class="kw" href="佛门.html">佛门</a><a class="kw" href="虚妄.html">虚妄</a><a class="kw" href="/keyword/妄想">妄想</a><a class="kw" href="邪道.html">邪道</a><a class="kw" href="出离.html">出离</a><a class="kw" href="/keyword/世界">世界</a><a class="kw" href="/keyword/命运">命运</a><a class="kw" href="罪苦.html">罪苦</a><a class="kw" href="/keyword/生命">生命</a><a class="kw" href="菩萨.html">菩萨</a><a class="kw" href="/keyword/善心">善心</a><a class="kw" href="罪孽.html">罪孽</a><a class="kw" href="六道.html">六道</a><a class="kw" href="/keyword/娑婆世界">娑婆世界</a><a class="kw" href="/keyword/实修">实修</a><a class="kw" href="福报.html">福报</a><a class="kw" href="邪魔外道.html">邪魔外道</a><a class="kw" href="放下.html">放下</a><a class="kw" href="出离罪苦.html">出离罪苦</a><a class="kw" href="成佛.html">成佛</a></div></div><div class="related"><p>相关开示：</p><i class="glyphicon glyphicon-film"></i><a href="/video/619a620f12db0c079594a41f">密宗、绿度母、鬼神信仰</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a620f12db0c079594a42b">发心修到能救人</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a620f12db0c079594a431">没有办法救人时不要乱发心</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a62d712db0c079594a562">犯过谤佛重罪如何修行</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a62d712db0c079594a576">不要在乎现前身，鬼神、六道都存在</a><i class="glyphicon glyphicon-film"></i><a href="/video/6045d361b63f0222338cc346">如何能真实放生</a><i class="glyphicon glyphicon-film"></i><a href="/video/6045d361b63f0222338cc358">情感问题怎么办：寒山师拾得师的典故</a><i class="glyphicon glyphicon-film"></i><a href="/video/6045d23bb63f0222338cc2ff">孩子缘分不要改变，做父母以身作则</a><i class="glyphicon glyphicon-film"></i><a href="/video/6045d114b63f0222338cc2ab">佛法第一殊胜在慈悲大众</a><i class="glyphicon glyphicon-film"></i><a href="/video/6045d114b63f0222338cc2ae">楞严咒是为出家护持佛法用</a><i class="glyphicon glyphicon-film"></i><a href="/video/6045d114b63f0222338cc2b0">好好修行，证得佛法让孩子回心</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a646512db0c079594ab20">谛深大师给弟子授皈依</a><i class="glyphicon glyphicon-film"></i><a href="/video/611c8d4b7421496bc5a21f64">如何在自己缘分中一门深入地获证</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a64c612db0c079594ac99">佛门修行的传承</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a651712db0c079594ae55">明确自己修行的目的，学会多串道</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a651712db0c079594ae5d">忏悔以后能得十方诸佛慈悲救拔</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a651712db0c079594ae69">可以通过治病让人入佛门吗</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a651712db0c079594ae6c">有人求治眼睛疾病</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a651712db0c079594ae71">真实放生一定得把生放得了</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a620f12db0c079594a41f">密宗、绿度母、鬼神信仰</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a620f12db0c079594a42b">发心修到能救人</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a620f12db0c079594a431">没有办法救人时不要乱发心</a><i class="glyphicon glyphicon-film"></i><a href="/video/6045ce17b63f0222338cc235">如何求国泰民安</a><i class="glyphicon glyphicon-film"></i><a href="/video/6045cc84b63f0222338cc215">口业、身业、意业</a><i class="glyphicon glyphicon-film"></i><a href="/video/6045cc84b63f0222338cc216">往生的境，命终时有几种境不能着</a><i class="glyphicon glyphicon-film"></i><a href="/video/6045cc84b63f0222338cc21d">典故：腿上长鬼头的出家人</a><i class="glyphicon glyphicon-film"></i><a href="/video/611a37952ec9be42b83a7506">出家要关，到师父这出家的条件</a><i class="glyphicon glyphicon-film"></i><a href="/video/611737400d7c2018d614effc">有人问持不杀戒，夏季蚂蚁多，除草、种地、扫地、生火时如何对待</a><i class="glyphicon glyphicon-film"></i><a href="/video/611737400d7c2018d614effd">有人问浇菜的时候，菜园里的蚂蚁窝被水淹，怎么对待</a><i class="glyphicon glyphicon-film"></i><a href="/video/611737400d7c2018d614effe">堕胎与杀生</a><i class="glyphicon glyphicon-film"></i><a href="/video/611737400d7c2018d614f00b">结语 自性众生誓愿度，自己决定修行命运</a><i class="glyphicon glyphicon-film"></i><a href="/video/61174f8a88f5823d07c79592">功德、福报和业之间的关系，功德的一向性，外功德与内功德，供养是做功德的第一要务</a><i class="glyphicon glyphicon-film"></i><a href="/video/6045c95bb63f0222338cc183">居士如何度家人</a><i class="glyphicon glyphicon-film"></i><a href="/video/611626bd0d7c2018d614ec19">伤口化脓与吃肉有关系吗</a><i class="glyphicon glyphicon-film"></i><a href="/video/611647490d7c2018d614ece8">佛像功德，福报眼与罪孽眼</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a68a112db0c079594b53b">戒律缘分，为什么不能吃葱蒜</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a69c012db0c079594b736">情绪是什么</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a69c012db0c079594b737">家中佛像不能供到房间中间怎么办</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a69ef12db0c079594b7a1">慈悲心与善软心</a><i class="glyphicon glyphicon-film"></i><a href="/video/6114699a5e44bf0f5390939a">金刚罩</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6a6a12db0c079594b96e">护法的层级：护戒菩萨、缘分护持、果位护持</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6a6a12db0c079594b97b">师父遇天人诵经的故事</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6a6a12db0c079594b97c">焦虑与抑郁</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6a6a12db0c079594b97e">师父的法是独成一体的末世救众的法</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6a6a12db0c079594b97f">将蛇放归山野为何属于共业放生</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6a8a12db0c079594b9f2">过午不食与饿鬼缘分</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6abc12db0c079594ba9e">为什么总有别有用心的人利用佛法诳骗大众</a><i class="glyphicon glyphicon-film"></i><a href="/video/60b4770de9e636118d69da6e">诵咒子要知道咒子的缘起</a><i class="glyphicon glyphicon-film"></i><a href="/video/60b4770de9e636118d69da73">如何在佛门广修供养</a><i class="glyphicon glyphicon-film"></i><a href="/video/60b4770de9e636118d69da7d">供佛的饭食能吃吗</a><i class="glyphicon glyphicon-film"></i><a href="/video/60311d73ab535c71e9e1b61f">随缘法,随缘救拔、随缘救度</a><i class="glyphicon glyphicon-film"></i><a href="/video/60311d73ab535c71e9e1b61d">人类的起源、飞碟和外星人</a><i class="glyphicon glyphicon-film"></i><a href="/video/60311d73ab535c71e9e1b61b">佛门传承中如何保护好家人,有慈悲心、随缘 救拔;梦见善境不要执着</a><i class="glyphicon glyphicon-film"></i><a href="/video/60311d73ab535c71e9e1b617">不净观是邪道说法</a><i class="glyphicon glyphicon-film"></i><a href="/video/60311d73ab535c71e9e1b603">饭食、营养与身体,身识的立相缘分</a><i class="glyphicon glyphicon-film"></i><a href="/video/6130a1e10c23b23a16c2b49e">大德高僧如何修行</a><i class="glyphicon glyphicon-film"></i><a href="/video/6130a1e10c23b23a16c2b4af">打坐过程中怎么喘气</a><i class="glyphicon glyphicon-film"></i><a href="/video/6130a1e10c23b23a16c2b4b2">佛陀为什么住世：十方世界都是如来本体</a><i class="glyphicon glyphicon-film"></i><a href="/video/6130a1e10c23b23a16c2b4b9">孩子话少怎么办</a><i class="glyphicon glyphicon-film"></i><a href="/video/611253c0f58ed77d1b8d5dc2">不杀戒的戒体戒根，四大菩萨层层施救</a><i class="glyphicon glyphicon-film"></i><a href="/video/611253c0f58ed77d1b8d5dc4">不适应是诽谤的根本，产生信与不信</a><i class="glyphicon glyphicon-film"></i><a href="/video/611253c0f58ed77d1b8d5dc9">河沙饿鬼证三贤</a><i class="glyphicon glyphicon-film"></i><a href="/video/60376027260cbe11ba09f08c">功德与罪的体现：福报与恶报</a><i class="glyphicon glyphicon-film"></i><a href="/video/60376027260cbe11ba09f092">应生修行心</a><i class="glyphicon glyphicon-film"></i><a href="/video/60376027260cbe11ba09f097">不同的缘分有不同修法，只有自己才能救得了自己</a><i class="glyphicon glyphicon-film"></i><a href="/video/60376027260cbe11ba09f09b">三昧真火</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6bfb12db0c079594bed4">佛门化缘的种种体现</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6bfb12db0c079594bed9">如何看待拜山祈福、请挂坠手串但不修行的人</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6bfb12db0c079594bedf">再来人（有人问在家居士如何最快速地出离）</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6c3012db0c079594bf41">接引法，四十八愿度众生</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6c3012db0c079594bf42">什么是度</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6c3012db0c079594bf43">心中没有就是没有吗</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6c3012db0c079594bf4c">怎样能得大悲咒的用</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6c5c12db0c079594bfd6">入寺院就是去维护道场</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6c8f12db0c079594c05a">什么是往生，死与圆寂的区别</a><i class="glyphicon glyphicon-film"></i><a href="/video/60dace00a4ff006c3597259f">出家须机缘，修行到能跟着师父走</a><i class="glyphicon glyphicon-film"></i><a href="/video/603660e31d0eae0e63f9c6c8">缘分摄受，吃饭为何分时段</a><i class="glyphicon glyphicon-film"></i><a href="/video/603660e31d0eae0e63f9c6ce">什么是超度</a><i class="glyphicon glyphicon-film"></i><a href="/video/603660e31d0eae0e63f9c6cf">让孩子自己确定出家缘分，五祖的出家因缘</a><i class="glyphicon glyphicon-film"></i><a href="/video/603660e31d0eae0e63f9c6d8">供灯的作用</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6d0812db0c079594c1c3">供佛舍利和佛像的功德利益是否一样</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6d0812db0c079594c1c4">造业会报到子孙吗</a><i class="glyphicon glyphicon-film"></i><a href="/video/619a6d2b12db0c079594c224">谛深大师给弟子授皈依</a><i class="glyphicon glyphicon-film"></i><a href="/video/606e8091ea903133aaf31cc2">保住做人身的功德福报</a><i class="glyphicon glyphicon-film"></i><a href="/video/606e8091ea903133aaf31cde">世界各地的佛授记道场</a><i class="glyphicon glyphicon-film"></i><a href="/video/60d02a7ba4ff006c35971ec8">不住相布施</a><i class="glyphicon glyphicon-film"></i><a href="/video/60d02a7ba4ff006c35971ed0">买来放生只是一种共业功德</a><i class="glyphicon glyphicon-film"></i><a href="/video/60a66596b7d6913815e7ef13">做布施不要去求别人感恩</a><i class="glyphicon glyphicon-film"></i><a href="/video/60a66596b7d6913815e7ef26">果地法与因地法完全不同，做和尚要忍辱负重</a><i class="glyphicon glyphicon-film"></i><a href="/video/60a66596b7d6913815e7ef2a">结语 因地修行要与如来水接，少做口业多问道</a><a href="/text/58e500749fc35b6c52a8c51a">了 解 佛 法</a><i class="glyphicon glyphicon-film"></i><a href="60a1e8eb629cab7e44f1a5ae.html">2021年1月9日菩萨海会</a></div><video class="video video-js vjs-default-skin vjs-big-play-centered" id="vdo" data-setup="{}" controls="" preload="auto" poster="https://v.channajieyuan.net/20210109%2011%20%E4%BF%AE%E8%A1%8C%E5%B0%B1%E6%98%AF%E5%9C%A8%E7%BB%99%E8%87%AA%E5%B7%B1%E9%80%A0%E5%B0%B1%E6%96%B0%E7%94%9F%E5%91%BD%E4%BD%93%E7%BC%98%E5%88%86-thumb.png"><source src="https://v.channajieyuan.net/20210109%2011%20%E4%BF%AE%E8%A1%8C%E5%B0%B1%E6%98%AF%E5%9C%A8%E7%BB%99%E8%87%AA%E5%B7%B1%E9%80%A0%E5%B0%B1%E6%96%B0%E7%94%9F%E5%91%BD%E4%BD%93%E7%BC%98%E5%88%86.mp4" type="video/mp4"></video></article><script>var homagingId;
+var floweringId;
+RunOnReady(function() {
+    $('#loginform').on('login', function (event, usr) {
+        $('#LoginRegiterModal').modal('hide');
+        if (homagingId) {
+            Homage(homagingId);
+            delete homagingId;
+        }
+        if (floweringId) {
+            Flower(floweringId);
+            delete floweringId;
+        }
+        event.stopImmediatePropagation();
+    });
+
+    $.get('/counter/homage/60a1e8eb629cab7e44f1a5ae', function(result) {
+        if (result.success) {
+            $('#homageNo').html(result.homage);
+            $('#flowerNo').html(result.flower);
+        }
+    })
+});
+
+// var Homaged = false;
+function Homage(id) {
+    //var already_ = function () {
+    //    bootstrap_alert.show('<span class="glyphicon glyphicon-info-sign"/>&nbsp;您已经顶礼过！', 'warning', 6000);
+    //};
+    //if (!Homaged) {
+        $.post('/activity/homage/'+ id, {type:'Video'},function (data) {
+            if (data.success) {
+                //Homaged = true;
+                var ctl = $('#homageNo');
+                if (ctl.html())
+                    ctl.html((ctl.html()|0) + 1);
+                else
+                    ctl.html(1);
+                //bootstrap_alert.show('<span class="glyphicon glyphicon-heart"/>&nbsp;顶礼成功', 'success', 4000);
+            }
+            else {
+                if (data.reason == -5) {
+                    bootstrap_alert.show('<span class="glyphicon glyphicon-user"/>&nbsp;尚未登录，请先登录', 'warning', 6000);
+                    $('#LoginRegiterModal').modal('show');
+                    homagingId = id;
+                }
+                else if (data.reason == -4) {
+                    already_();
+                }
+            }
+        });
+    //}
+    //else {
+    //    already_();
+    //}
+}
+
+//var Flowered = false;
+function Flower(id) {
+    var already_ = function () {
+        bootstrap_alert.show('<span class="glyphicon glyphicon-info-sign"/>&nbsp;您已经献过花', 'warning', 6000);
+    };
+    //if (!Flowered) {
+        $.post('/activity/flower/'+ id, {type:'Video'}, function (data) {
+            if (data.success) {
+                Flowered = true;
+                var ctl = $('#flowerNo');
+                if (ctl.html())
+                    ctl.html((ctl.html() | 0) + 1);
+                else
+                    ctl.html(1);
+                //bootstrap_alert.show('<span class="glyphicon glyphicon-heart"/>&nbsp;供花成功', 'success', 4000);
+            }
+            else {
+                if (data.reason == -5) {
+                    bootstrap_alert.show('<span class="glyphicon glyphicon-user"/>&nbsp; 尚未登录，请先登录', 'warning', 6000);
+                    $('#LoginRegiterModal').modal('show');
+                    floweringId = id;
+                }
+                else if (data.reason == -4) {
+                    already_();
+                }
+            }
+        });
+    //- }
+    //- else {
+    //-     already_();
+    //- }
+    
+}
+
+</script><div class="homage"><div class="worship" id="homageBtn" onclick="Homage('60a1e8eb629cab7e44f1a5ae');"><span class="homagenum" id="homageNo"></span><p>顶礼</p></div><div class="worship" id="flowerBtn" onclick="Flower('60a1e8eb629cab7e44f1a5ae');"><span class="homagenum" id="flowerNo"></span><p>供花</p></div></div></div></div><div class="footer"><div class="content_box centeralign flexbox"><img class="footer_logo" src="static/picture/logo_with_border.png"><div class="footer_content"><p><a href="introduction.html">谛深大师简介</a><span class="footersep">|</span><a href="rss.html" target="_blank">&nbsp;RSS</a><span class="footersep">| </span><a class="reportBug" href="#">汇报问题</a><span class="footersep">| </span><a href="contactus.html">联系我们</a><span class="footersep">| </span><a id="registerBtn">注册</a><span class="footersep">| </span><a href="downloadapp.html">下载APP</a></p><p class="copyright">Copyright 2017 Dishendashi.org all right reserved. </p></div></div></div><div class="bugreportmodal"><div class="modal fade" id="MailContent"><div class="modal-dialog" role="document"><div class="modal-content"><form id="MailContentForm"><div class="modal-header"><button class="close" data-dismiss="modal" aria-hidden="true">&times; </button><h4 class="modal-title" id="MainContentTitle">发送站内信</h4></div><div class="modal-body"> <div class="form-group" id="FromFormGroup"><input class="form-control" id="_id" type="hidden" value=""><input class="form-control" id="_date" type="hidden" value=""><input class="form-control" id="_type" type="hidden" name="type"><label for="_from">发信人:</label><input class="form-control" id="_from" type="text" name="from" value=""></div><div class="form-group" id="ToFromGroup"><label for="_to">发送给:</label><input class="form-control" id="_to" type="text" name="to" value=""></div><div class="form-group"><label class="mandatory" id="MailTitleText" for="_title">标题:</label><input class="form-control" id="_title" type="text" name="title" value=""></div><div class="form-group"><label class="mandatory" id="MailContentText" for="_content">正文:</label><textarea class="form-control" id="_content" type="text" rows="10" cols="20" name="content"></textarea></div><div class="form-group" id="ReferUrlGroup"><label for="_referurl">相关url:</label><input class="form-control" id="_referurl" type="text" name="referurl" disabled="true"></div><div class="form-group row" id="ScreenShotGroup"><div class="col-sm-3"><label for="_screenshot">屏幕截图:</label></div><div class="col-sm-4"><img class="screenshot" id="ScreenShotImg"></div></div><div class="form-group" id="CaptchaFormGroup"><lable class="control-label col-sm-2 mandatory">验证码</lable><div class="col-sm-4"><input class="form-control" id="captcha_sitemsg" type="text" name="captcha"></div><div class="col-sm-3"><img class="captchaimg" id="ci" onclick="this.src='/user/captcha?'" alt="看不清？点击更换"></div><div class="clear"></div></div></div><div class="modal-footer"><div class="smBtn row"><button class="btn btn-secondary" id="btnSend" type="submit"> <i class="glyphicon glyphicon-envelope"></i><span>发送</span></button><button class="btn btn-default" id="btnReply" type="button"><i class="glyphicon glyphicon-pencil"> </i><span>回复</span></button></div></div></form></div></div></div></div><div id="login_register"></div><div class="alert alert-dismissable" id="floating_alert"><a class="close" href="#" data-dismiss="alert" aria-label="close">&times;</a><span id="alerttext"></span></div></body></head></html>
